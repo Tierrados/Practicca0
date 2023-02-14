@@ -1,0 +1,9 @@
+hola que tal estas yo estoy bien 
+no entiendo esto pero vamos a intentarlo 
+lo primero que hacemos es añadir todo 
+lo segundo que hay que hacer es hacer el commit 
+lo tercero que hay que hacer es añades el origen 
+y lo pusheas 
+
+para recuperar pulleas 
+desde el origen 
